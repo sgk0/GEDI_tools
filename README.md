@@ -1,5 +1,7 @@
 # GEDI_tools
 
+The easiest way to use the tool is to copy the folders into the same base directory. Then sequentially run the code, on the first level running through the folders with the lowest prefix (i.e. '0_') and then the notebooks/python scripts with the lowest prefixes.
+
 ## GEDI_tools consist of:
 
 1. 'get_shapefile_ALSO': A Jupyter Notebook containing instructions and code for obtaining ALOS PALSAR 1 data. Because we're interested in time series analysis, to obtain the largest time series we focus on the intersection area of all the ALOS PALSAR 1 imagery of a given path/row. The result is a polygon shapefile (the 'ROI') consisting of the intersection of all of the path/row imagery. The ROI can then be used to subset the GEDI data.
