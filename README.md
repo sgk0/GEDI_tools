@@ -3,7 +3,7 @@
 <img src="preview_1.PNG" width="100%">
 <img src="preview_2.PNG" width="100%">
 
-**The easiest way to use the tool is to copy the folders into the same base directory. Then sequentially run the code, starting with the folders having the lowest prefix (i.e. '0_'). If there are python scripts in the folders, they are also labelled in the sequence in which they are to be run. **
+**The easiest way to use the tool is to copy the folders into the same base directory. Then sequentially run the code, starting with the folders having the lowest prefix (i.e. '0_'). If there are python scripts in the folders, they are also labelled in the sequence in which they are to be run.**
 
 ## GEDI_tools consist of:
 
