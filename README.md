@@ -1,6 +1,8 @@
+[![Language](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-GNU%203.0-blue.svg)](https://github.com/leiyangleon/FSH/blob/master/LICENSE)
+
 # GEDI_tools
 
-<img src="preview_1.PNG" width="100%">
 <img src="preview_2.PNG" width="100%">
 
 **The easiest way to use the tool is to copy the folders into the same base directory. Then sequentially run the code, starting with the folders having the lowest prefix (i.e. '0_'). If there are python scripts in the folders, they are also labelled in the sequence in which they are to be run.**
